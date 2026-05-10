@@ -1,2 +1,2 @@
 # Repositorio
-## Aqui você irâ encontrar pasta de estudos com exercicios, mini projetos e outros..
+Aqui você irá encontrar pastas de estudos com exercícios, mini projetos e outros conteúdos.
